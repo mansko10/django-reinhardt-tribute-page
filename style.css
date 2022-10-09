@@ -40,3 +40,13 @@ body {
 a {
     color: #772432;
 }
+
+.quote {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 40px;
+    font-size: 22px;
+    font-style: italic;
+    cursor: default;
+    color: antiquewhite;
+}
