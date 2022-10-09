@@ -48,5 +48,10 @@ a {
     font-size: 22px;
     font-style: italic;
     cursor: default;
-    color: antiquewhite;
+    color: burlywood;
+}
+
+.credit {
+    text-align: center;
+    padding: 30px 0;
 }
