@@ -29,7 +29,8 @@ body {
 
 .tribute-info {
     width: 60%;
-    margin: 0 auto;
+    margin: auto;
+    margin-bottom: 60px;
 }
 
 .tribute-info p {
